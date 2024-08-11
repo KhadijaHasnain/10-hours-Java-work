@@ -1,0 +1,52 @@
+F1c:
+
+D E C A [B @ 17] (B) (A) (C) [B @ 7] (B) (E) A (A) (D) 
+
+D 
+E 
+B 
+
+===========================================================
+
+F2c:
+
+Bos NY Was Atl Chi Mpl Den Dal Mia (Mia) [LA @ 4505] (LA) (Dal) [LA @ 3402] (LA) (Den) Sea (Sea) (Mpl) Dal (Dal) Den [LA @ 3279] (LA) (Den) (Chi) Mia (Mia) Dal Den [LA @ 3162] (LA) (Den) [LA @ 2931] (LA) (Dal) (Atl) Chi Mpl Den [LA @ 2884] (LA) (Den) Sea (Sea) (Mpl) Den [LA @ 2761] (LA) (Den) (Chi) (Was) Chi Mpl Sea (Sea) (Mpl) Den [LA @ 2665] (LA) (Den) (Chi) (NY) Chi Mpl Sea (Sea) (Mpl) Dal (Dal) Den [LA @ 2599] (LA) (Den) (Chi) Mpl Sea (Sea) (Mpl) (Bos) 
+
+Bos 
+Chi 
+Den 
+LA 
+
+===========================================================
+
+F3c: 
+
+I B J g H V e G d C b Z y Q h N t M W O f n K q z k R r [a @ 1281] (a) (r) p (p) (R) (k) R r [a @ 1265] (a) (r) p (p) (R) (z) k (k) (q) z R r [a @ 1263] (a) (r) p (p) (R) (z) (K) R r [a @ 1184] (a) (r) p (p) (R) q z k (k) (z) k (k) (q) z k (k) (z) r [a @ 1155] (a) (r) (n) K (K) z k (k) (z) r [a @ 1146] (a) (r) (f) [a @ 1064] (a) (O) f n (n) (f) A (A) (W) f n (n) (f) F (F) j (j) (M) f n K (K) R (R) (n) O [a @ 1058] (a) (O) K (K) (f) K q z (z) (q) z (z) (K) (t) M W O [a @ 1052] (a) (O) A (A) (W) F (F) j (j) (M) j t (t) (j) w (w) m (m) v (v) [P @ 1046] (P) (N) K q z k (k) R (R) (z) k (k) n (n) (q) z R (R) (z) n f O (O) (f) R (R) r (r) (n) f O [a @ 1040] (a) (O) (f) (K) t M W A (A) (W) F (F) (M) (t) q z k (k) R (R) (z) k (k) (q) v w (w) m (m) x (x) (v) (h) w v m [P @ 1022] (P) (m) x (x) (v) x X (X) U (U) (x) X (X) m [P @ 1014] (P) (m) (w) q z k (k) R (R) (z) k (k) (q) (Q) h N M W O (O) (W) F (F) (M) j (j) (N) K n f O (O) (f) (n) f O (O) (f) (K) t M W (W) F (F) (M) (t) (h) w v (v) x U (U) (x) X (X) m [P @ 1006] (P) (m) (w) X U D (D) (U) (X) q z k R (R) (k) n f O (O) (f) (n) f O (O) (f) R (R) (z) K (K) k (k) n f O (O) (f) r (r) (n) (q) K f O [a @ 1002] (a) (O) W (W) (f) (K) k (k) x (x) (y) X x (x) U D o (o) (D) o (o) (U) (X) x (x) (Z) D o c E (E) (c) E (E) (o) c E (E) T (T) (c) T (T) (D) U (U) (b) y Q h N t M W (W) F (F) (M) (t) M W A (A) (W) F (F) (M) j t (t) (j) (N) t M W A (A) (W) F (F) (M) (t) v (v) (h) w v m [P @ 985] (P) (m) (v) m [P @ 977] (P) (m) (w) (Q) h N M W O (O) (W) F (F) (M) j (j) (N) K n f O (O) (f) (n) f O (O) (f) (K) t M W (W) F (F) (M) (t) (h) w v (v) m [P @ 969] (P) (m) (w) q z k R (R) (k) n f O (O) (f) (n) f O (O) (f) R (R) (z) K (K) k (k) n f O (O) (f) r (r) (n) (q) K f O [a @ 965] (a) (O) W (W) (f) (K) k (k) x (x) (y) z q K n f O W A (A) (W) [a @ 933] (a) (O) W (W) (f) R (R) r (r) (n) f O W (W) [a @ 925] (a) (O) W (W) (f) t M (M) (t) (K) k R (R) (k) n f O W (W) [a @ 919] (a) (O) W (W) (f) r (r) (n) (q) k R (R) (k) K t M (M) (t) (K) n f O W (W) [a @ 912] (a) (O) W (W) (f) r (r) (n) f O W (W) [a @ 904] (a) (O) W (W) (f) R r (r) (R) (z) q K t M (M) (t) (K) (q) k (k) (C) (d) (G) (e) C d (d) b Z y Q h N t M W O f n K q (q) (K) R r [a @ 871] (a) (r) p (p) (R) q z (z) (q) z (z) r [a @ 842] (a) (r) (n) K (K) z k (k) (z) r [a @ 833] (a) (r) (f) [a @ 751] (a) (O) f n (n) (f) A (A) (W) f n (n) (f) F (F) j (j) (M) f n K (K) R (R) (n) O [a @ 745] (a) (O) K (K) (f) K q z (z) (q) z (z) (K) (t) M W O [a @ 739] (a) (O) A (A) (W) F (F) j (j) (M) j t (t) (j) w (w) m (m) v (v) [P @ 733] (P) (N) K q z k (k) R (R) (z) k (k) n (n) (q) z R (R) (z) n f O (O) (f) R (R) r (r) (n) f O [a @ 727] (a) (O) (f) (K) t M W A (A) (W) F (F) (M) (t) q z k (k) R (R) (z) k (k) (q) v w (w) m (m) x (x) (v) (h) w v m [P @ 709] (P) (m) x (x) (v) x X (X) U (U) (x) X (X) m [P @ 701] (P) (m) (w) q z k (k) R (R) (z) k (k) (q) (Q) h N M W O (O) (W) F (F) (M) j (j) (N) K n f O (O) (f) (n) f O (O) (f) (K) t M W (W) F (F) (M) (t) (h) w v (v) x U (U) (x) X (X) m [P @ 693] (P) (m) (w) X U D (D) (U) (X) q z k R (R) (k) n f O (O) (f) (n) f O (O) (f) R (R) (z) K (K) k (k) n f O (O) (f) r (r) (n) (q) K f O [a @ 689] (a) (O) W (W) (f) (K) k (k) x (x) (y) X x (x) U D o (o) (D) o (o) (U) (X) x (x) (Z) D o c E (E) (c) E (E) (o) c E (E) T (T) (c) T (T) (D) U (U) (b) y Q h N t M W (W) F (F) (M) (t) M W A (A) (W) F (F) (M) j t (t) (j) (N) t M W A (A) (W) F (F) (M) (t) v (v) (h) w v m [P @ 672] (P) (m) (v) m [P @ 664] (P) (m) (w) (Q) h N M W O (O) (W) F (F) (M) j (j) (N) K n f O (O) (f) (n) f O (O) (f) (K) t M W (W) F (F) (M) (t) (h) w v (v) m [P @ 656] (P) (m) (w) q z k R (R) (k) n f O (O) (f) (n) f O (O) (f) R (R) (z) K (K) k (k) n f O (O) (f) r (r) (n) (q) K f O [a @ 652] (a) (O) W (W) (f) (K) k (k) x (x) (y) z q K n f O W A (A) (W) [a @ 620] (a) (O) W (W) (f) R (R) r (r) (n) f O W (W) [a @ 612] (a) (O) W (W) (f) t M (M) (t) (K) k R (R) (k) n f O W (W) [a @ 606] (a) (O) W (W) (f) r (r) (n) (q) k R (R) (k) K t M (M) (t) (K) n f O W (W) [a @ 599] (a) (O) W (W) (f) r (r) (n) f O W (W) [a @ 591] (a) (O) W (W) (f) R r (r) (R) (z) q K t M (M) (t) (K) (q) k (k) (C) d (d) (V) C b Z X (X) x (x) (Z) D o (o) (D) U (U) (b) y Q w v (v) (w) (Q) h N (N) (h) w v (v) (w) x (x) (y) z q K t M (M) (t) (K) n r (r) (n) (q) K t M (M) (t) (K) n f O W (W) [a @ 587] (a) (O) W (W) (f) r (r) (n) f O W (W) [a @ 579] (a) (O) W (W) (f) R r (r) (R) (z) q K t M (M) (t) (K) (q) k (k) (C) d (d) (H) C d G (G) (d) b Z X x (x) (X) x (x) (Z) D o (o) (D) U (U) (b) y Q h N (N) v (v) (h) w v (v) m (m) (w) (Q) h N M (M) (N) t M (M) (t) (h) w v (v) m (m) (w) x (x) (y) z q K n f O W (W) [a @ 574] (a) (O) W (W) (f) r (r) (n) f O W (W) [a @ 566] (a) (O) W (W) (f) t M (M) (t) (K) k R (R) (k) n f O W (W) [a @ 560] (a) (O) W (W) (f) r (r) (n) (q) k R (R) (k) K t M (M) (t) (K) n f O W (W) [a @ 553] (a) (O) W (W) (f) r (r) (n) f O W (W) [a @ 545] (a) (O) W (W) (f) R r (r) (R) (z) q K t M (M) (t) (K) (q) k (k) (C) b Z y Q h N M (M) (N) t M (M) (t) v (v) (h) w v m (m) (v) x (x) m (m) (w) (Q) h N M (M) j (j) (N) t M (M) (t) (h) w v (v) x (x) m (m) (w) X U (U) (X) K (K) x (x) (y) X x (x) U o (o) (U) (X) x (x) (Z) D o c (c) E (E) (o) c E (E) (c) T (T) (D) U (U) (b) d G (G) (d) (g) c E T Y (Y) (T) o D (D) U (U) (o) Y (Y) (E) T D (D) (T) o D U (U) (D) U x (x) (U) (o) Y (Y) D (D) (c) D o U x v m (m) (v) (x) (U) (o) U X x v m [P @ 539] (P) (m) (v) (x) w m [P @ 535] (P) (m) (w) (X) x v m [P @ 496] (P) (m) (v) w (w) (x) (U) (D) T Y (Y) (T) b Z y Q h N t M (M) (t) M (M) (N) K n (n) f (f) (K) t M (M) (t) (h) w (w) q (q) (Q) h N M W (W) (M) j (j) (N) K n f (f) (n) f O (O) (f) (K) t M W (W) (M) (t) (h) w (w) q z k R (R) (k) n f O (O) (f) (n) f O (O) (f) R (R) (z) K (K) k (k) n f O (O) (f) (n) (q) K f O (O) W (W) (f) (K) k (k) (y) X (X) (Z) (b) (J) T c E (E) o (o) Y (Y) (c) E (E) Y (Y) (T) g H V e G (G) (e) d (d) (V) C (C) d (d) (H) C d G (G) (d) z R (R) (z) k (k) (C) d G (G) (d) (g) Y (Y) (B) V H g C d G (G) (d) z q K n f O W (W) [a @ 488] (a) (O) W (W) (f) r (r) (n) f O W (W) [a @ 480] (a) (O) W (W) (f) t M (M) (t) (K) k R (R) (k) n f O W (W) [a @ 474] (a) (O) W (W) (f) r (r) (n) (q) k R (R) (k) K t M (M) (t) (K) n f O W (W) [a @ 467] (a) (O) W (W) (f) r (r) (n) f O W (W) [a @ 459] (a) (O) W (W) (f) R r (r) (R) (z) q K t M (M) (t) (K) (q) k (k) (C) b Z y Q h N M (M) (N) t M (M) (t) (h) w v m (m) (v) m (m) (w) (Q) h N M (M) j (j) (N) t M (M) (t) (h) w v (v) m (m) (w) K (K) (y) X (X) (Z) (b) d G (G) (d) (g) C d G (G) (d) z q K n f O W (W) [a @ 454] (a) (O) W (W) (f) r (r) (n) f O W (W) [a @ 446] (a) (O) W (W) (f) t M (M) (t) (K) k R (R) (k) n f O W (W) [a @ 440] (a) (O) W (W) (f) r (r) (n) (q) k R (R) (k) K t M (M) (t) (K) n f O W (W) [a @ 433] (a) (O) W (W) (f) r (r) (n) f O W (W) [a @ 425] (a) (O) W (W) (f) R r (r) (R) (z) q K t M (M) (t) (K) (q) k (k) (C) d G (G) (d) (H) e G (G) (e) C d (d) y Q h N (N) (h) w v (v) m (m) (w) (Q) h N M (M) (N) t M (M) (t) (h) w v (v) m (m) (w) (y) z q K n f O W (W) [a @ 420] (a) (O) W (W) (f) r (r) (n) f O W (W) [a @ 412] (a) (O) W (W) (f) t M (M) (t) (K) k R (R) (k) n f O W (W) [a @ 406] (a) (O) W (W) (f) r (r) (n) (q) k R (R) (k) K t M (M) (t) (K) n f O W (W) [a @ 399] (a) (O) W (W) (f) r (r) (n) f O W (W) [a @ 391] (a) (O) W (W) (f) R r (r) (R) (z) q K t M (M) (t) (K) (q) k (k) (C) d (d) (V) H g b Z y Q (Q) h N (N) (h) w v (v) (w) (y) X x (x) (X) x (x) (Z) (b) (g) (H) J c E (E) o (o) (c) D o U (U) (o) U X (X) x v (v) (x) (U) (D) b Z y Q (Q) h N (N) (h) w (w) (y) X (X) (Z) (b) (J) g b Z y Q (Q) h N (N) (h) w (w) (y) X (X) (Z) (b) (g) e G (G) (e) (I) 
+
+I 
+V 
+C 
+z 
+f 
+O 
+a 
+
+===============================================================
+
+F4c:
+
+S B M C [R @ 13] (R) (C) (M) J G (G) H (H) (J) (B) K E [Q @ 7] (Q) (E) (K) F (F) (S) 
+
+S 
+K 
+E 
+Q 
+
+================================================================
+
+F6c:
+
+Sea Den GB Buf Crl [Atl @ 4120] (Atl) (Crl) [Atl @ 4097] (Atl) (Buf) [Atl @ 3361] (Atl) (GB) [Atl @ 2732] (Atl) (Den) GB Buf (Buf) (GB) Buf (Buf) [Atl @ 2705] (Atl) (Sea) 
+
+Sea 
+Atl 

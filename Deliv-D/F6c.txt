@@ -1,0 +1,7 @@
+~             val   Atl  Buf  Crl  Den   GB  Sea
+Atlanta         G     ~  910  238 1403  927 2705 
+Buffalo         ~   910    ~  695 1546  753 2612
+Charlotte       ~   238  695    ~ 1559  994 2827
+Denver          ~  1403 1546 1559    ~ 1105 1329
+GreenBay        ~   927  753  994 1105    ~ 1939
+Seattle         S  2705 2612 2827 1329 1939    ~
